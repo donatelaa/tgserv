@@ -1,8 +1,12 @@
 {
   "name": "tg-proxy",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "dependencies": {
+    "busboy": "^1.6.0"
   }
 }
